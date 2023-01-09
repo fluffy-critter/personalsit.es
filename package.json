@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/hankchizljaw/personalsit.es#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.5.2",
-    "@11ty/eleventy-plugin-rss": "^1.0.2",
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
     "html-minifier": "^3.5.20"
   }
 }
